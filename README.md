@@ -1,4 +1,10 @@
 ### Hi there 👋
+![HTB](https://www.hackthebox.eu/badge/image/91021)
+
+![THM](https://tryhackme-badges.s3.amazonaws.com/N1Z4M.png?3)
+
+
+
 
 <!--
 **nizam0906/nizam0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

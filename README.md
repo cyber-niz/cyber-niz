@@ -98,3 +98,6 @@ class About extends Me
 
 <a href="https://www.tryhackme.com/p/N1Z4M" target="_blank"><img src="https://i.ibb.co/T0G8KjJ/N1Z4M.png" alt="Try Hack Me" width="220" height="50" ></a><a href="https://www.hackthebox.eu/profile/91021" target="_blank"><img src="https://www.hackthebox.eu/badge/image/91021" alt="HACK THE BOX" width="220" height="50" ></a><a href="https://www.buymeacoffee.com/n1z4m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="220" height="50" ></a>
 
+
+<img src="https://i.ibb.co/x3B7FRn/N1Z4M.png" alt="N1Z4M" border="0" width="2250" height="190" >
+
